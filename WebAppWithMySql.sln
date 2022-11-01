@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppWithMySql", "WebAppWithMySql\WebAppWithMySql.csproj", "{A028FECF-4506-420F-B680-C4879F0099FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A028FECF-4506-420F-B680-C4879F0099FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A028FECF-4506-420F-B680-C4879F0099FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A028FECF-4506-420F-B680-C4879F0099FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A028FECF-4506-420F-B680-C4879F0099FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06165F5F-9435-467A-988D-772A4180DABC}
+	EndGlobalSection
+EndGlobal
